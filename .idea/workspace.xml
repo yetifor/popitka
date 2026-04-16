@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67303fe4-2e16-4653-836b-f90d2144b352" name="Changes" comment="new settings">
-      <change afterPath="$PROJECT_DIR$/tests/async_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_titles_litres.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/sync_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/sync_example.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +48,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.async_example.executor": "Run",
     "Python.sync_example.executor": "Run",
+    "Python.test_titles_litres.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -108,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776357379044</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new settings">
+      <option name="closed" value="true" />
+      <created>1776361528624</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1776361528624</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
